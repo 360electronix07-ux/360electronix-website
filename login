@@ -37,6 +37,7 @@
       align-items: center;
       justify-content: space-between;
       gap: 20px;
+
     }
     .login-brand img {
       width: auto;
